@@ -143,11 +143,23 @@ Realizamos prototipo de baja fidelidad en [Figma](https://www.figma.com/file/C1O
 Realizamos prototipo de alta fidelidad en [Figma](https://www.figma.com/file/BnTs3ddeGVDaI4mfvgS3bR/Untitled?type=design&node-id=0-1&mode=design&t=ChsilpL0sUnPzrwQ-0). ![prototipo de baja](src/img/Prototipo2.jpg) para difetentes dispositivos.
 
 ### 4.1 . Test de usabilidad de prototipos.
-Realizamos el test de usabilidad desde los prototipos para las historias de usuario y estos fueron los 
+Realizamos el test de usabilidad desde los 
+prototipos para las historias de usuario y estos 
+fueron los 
 resultados:
 ![resultado](src/img/Test.png)
-Teniendo en cuenta los resultados del test de usabilidad, se llegó a la conclusión de que era necesario dar estilo mas adecuado al tipo de letra y tamaño. 
+Teniendo en cuenta los resultados del test de 
+usabilidad, se llegó a la conclusión de que era 
+necesario dar estilo mas adecuado al tipo de 
+letra y tamaño. 
 
 ## 5. Interfaz.
-En la interfaz, el usuario puede interactuar con las diferentes paginas para iniciar sesion, crear usuario, reestablecer contraseña e ingresar con el correo de google, al ingresar al aplicativo puede postear, editar o borrar comentarios, dar like y ver el contador de los mismos. 
-[Aquí]() puedes acceder a la interfaz.
+En la interfaz, el usuario puede interactuar con 
+las diferentes paginas para iniciar sesion, crear 
+usuario, reestablecer contraseña e ingresar con 
+el correo de google, al ingresar al aplicativo 
+puede postear, editar o borrar comentarios, dar 
+like y ver el contador de los mismos. La interfaz 
+ha sido desplegada utilizando vite y firebase. 
+[Aquí](https://art-lovers-6da8d.web.app) puedes 
+acceder a la interfaz.
